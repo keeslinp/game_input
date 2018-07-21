@@ -1,0 +1,6 @@
+[package]
+name = "input_manager"
+version = "0.1.0"
+authors = ["Pearce Keesling <keeslinp@gmail.com>"]
+
+[dependencies]
