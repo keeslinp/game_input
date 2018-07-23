@@ -1,2 +1,4 @@
+mod builder;
 mod manager;
-pub use self::manager::Manager;
+pub use self::builder::*;
+pub use self::manager::*;

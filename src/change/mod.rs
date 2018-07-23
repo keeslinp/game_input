@@ -1,2 +1,2 @@
 mod change;
-pub use self::change::{AxisChange, ButtonChange};
+pub use self::change::*;
